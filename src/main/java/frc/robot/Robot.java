@@ -14,7 +14,7 @@ import edu.wpi.first.wpilibj.motorcontrol.PWMSparkMax;
  * The VM is configured to automatically run this class, and to call the functions corresponding to
  * each mode, as described in the TimedRobot documentation. If you change the name of this class or
  * the package after creating this project, you must also update the manifest file in the resource
- * directory.
+ * directory..
  */
 public class Robot extends TimedRobot {
   private final PWMSparkMax m_leftDrive = new PWMSparkMax(0);
